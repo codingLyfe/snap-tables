@@ -30,7 +30,7 @@
 			</tr>
 			<tr>
 				<td>Ruby</td>
-				<td>1,403</td>
+				<td>1,403 + NaN</td>
 				<td>Only for Hipster Driven Development (HDD)</td>
 			</tr>
 		</table>
